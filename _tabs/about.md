@@ -18,6 +18,6 @@ I dedicate a considerable portion of my free time to learn new languages and tec
 
 If you want to keep in contact with me you can add me on one of these social networks:
 
-* YouTube: https://www.youtube.com/@MarcoLenzo
-* LinkedIn: https://www.linkedin.com/in/marcolenzo/
-* Twitter: https://twitter.com/marco_lenzo
+* YouTube: [https://www.youtube.com/@MarcoLenzo](https://www.youtube.com/@MarcoLenzo)
+* LinkedIn: [https://www.linkedin.com/in/marcolenzo/](https://www.linkedin.com/in/marcolenzo/)
+* Twitter: [https://twitter.com/marco_lenzo](https://twitter.com/marco_lenzo)
