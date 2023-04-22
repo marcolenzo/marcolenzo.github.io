@@ -80,7 +80,7 @@ Despite his kindness, those 15 minutes put so much stress in me that I ended up 
 
 **You desk has to be tidy. No electronic equipment other than keyboard, mouse and monitor (one only) can be present on it.** You can only have a glass or bottle of water. If you have a bottle make sure it has no labels. If you have a printer nearby, you need to show that there’s no paper loaded in it.
 
-![Tidy Desk](/assets/img/2022/11/tidy-desk.jpg)
+![Tidy Desk](/assets/img/2022/11/desk.jpg)
 
 ### **Only one monitor allowed (Laptops are bad)**
 
