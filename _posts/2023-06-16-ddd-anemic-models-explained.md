@@ -3,7 +3,7 @@ title: 'What is an Anemic Model in Domain Driven Design (DDD)?'
 date: '2023-06-16'
 author: marcolenzo
 layout: post
-permalink: /ddd-anemic-models-explained
+permalink: /ddd-anemic-models-explained/
 categories:
     - 'Software Development and Architecture'
 tags:
